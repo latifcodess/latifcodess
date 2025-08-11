@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://github.com/user-attachments/assets/caf30965-0b6e-4731-a72a-67bd758fdb2d" alt="IMG_8296" width="300">
-
-###
-
 <h2 align="left">I code with :</h2>
 
 ###
